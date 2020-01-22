@@ -8,7 +8,6 @@ The objective of this project is to learn about asynchronous programming in Dart
 I'm going to make a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). By the end of the module, I'll be able to find out the live weather data in the current location of the device as well as the weather for any city I can think of!
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
 ## What I will learn
 - How to use Dart to perform asynchronous tasks.
